@@ -1,4 +1,4 @@
-is
+util-is
 -------
 Additional Type Check functions for Util.
 
