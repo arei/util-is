@@ -1,0 +1,28 @@
+{
+  "name": "util-is",
+  "author": "Glen R. Goodwin (http://www.arei.net)",
+  "keywords": [ "util-is","type","is","util","type safety","safety","types","utils","check","type check","type checking","util is" ],
+  "description": "Additional Type Check functions for Util",
+  "version": "0.1.0",
+  "homepage": "http://github.com/arei/util-is",
+  "bugs": {
+        "url": "http://github.com/arei/util-is/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/arei/util-is/blob/master/LICENSE.txt"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arei/util-is.git"
+  },
+  "main": "util-is.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
