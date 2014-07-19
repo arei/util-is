@@ -87,3 +87,6 @@ Util.isPureObject = function(o) {
 		   !Util.isRegExp(o) && 
 		   !Util.isError(o);
 };
+
+// Export the Util module so that users of util-is don't need to require both util-is and util.
+module.exports = Util;
